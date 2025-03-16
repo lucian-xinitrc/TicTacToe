@@ -6,7 +6,7 @@ Created in C#, this Tic-Tac-Toe game is designed with a simple, easy-to-navigate
 ## $ languages used
 The website was built using the following technologies:
 
-![c#, Vim](https://skillicons.dev/icons?i=cs,vim)
+![c#, Sublime, VisualStudioIde](https://skillicons.dev/icons?i=cs,sublime,visualstudio)
 
 
 ## $ license
